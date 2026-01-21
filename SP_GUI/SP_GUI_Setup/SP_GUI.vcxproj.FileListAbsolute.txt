@@ -1,0 +1,3 @@
+C:\Users\mesut\source\repos\SP_GUI\SP_GUI\SP_GUI_Setup\SP_GUI.vcxproj.AssemblyReference.cache
+C:\Users\mesut\source\repos\SP_GUI\SP_GUI\SP_GUI_Setup\SPGUI.MyForm.resources
+C:\Users\mesut\source\repos\SP_GUI\SP_GUI\SP_GUI_Setup\SP_GUI.vcxproj.GenerateResource.cache

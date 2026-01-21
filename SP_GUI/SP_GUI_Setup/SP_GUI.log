@@ -1,0 +1,7 @@
+﻿  KeyForm.cpp
+  Main.cpp
+  MyForm.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  KeyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  SP_GUI.vcxproj -> C:\Users\mesut\source\repos\SP_GUI\SP_GUI_Setup\SP_GUI.exe
